@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Vaibhavi Zala
 
-🎓 Computer Engineering Student 
-💻 Web Developer (Beginner)
-📍 Vadodara, Gujarat, India 🇮🇳
+🎓 Computer Engineering Student  
+💻 Web Developer (Beginner)   
+📍 Vadodara, Gujarat, India
 
 ---
 
