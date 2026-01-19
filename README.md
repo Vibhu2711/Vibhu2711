@@ -1,8 +1,22 @@
-# 👋 Hey, I'm Vaibhavi Zala
+<h1 align="center">👋 Hey, I'm Vaibhavi Zala</h1>
 
-🎓 Computer Engineering Student  
-💻 Web Developer (Beginner)   
+<p align="center">
+  <a href="https://github.com/Vibhu2711">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Web+Developer+(Beginner);Learning+Full-Stack+Development" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
 📍 Vadodara, Gujarat, India
+</p>
+
+---
+## 🧑‍💻 About Me
+
+- 🎓 Computer Engineering Student  
+- 🌱 Currently learning **Full-Stack Web Development**  
+- 💻 Interested in **MERN Stack**  
+- 🚀 Preparing for internships/job & real-world projects  
 
 ---
 
@@ -51,8 +65,11 @@
 ---
 
 ## 📫 Connect With Me
-📧 Email: **vaibhavizala27@gmail.com**  
-💼 LinkedIn: [Vaibhavi Zala](https://www.linkedin.com/in/vaibhavi-zala-a4a237345 ) 
+<p>
+  📧 <b>Email:</b> vaibhavizala27@gmail.com <br/>
+  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/vaibhavi-zala-a4a237345">Vaibhavi Zala</a> <br/>
+  <!-- 🌐 <b>Portfolio:</b> <a href="https://sahil-porfolio.netlify.app/">My Portfolio</a> -->
+</p>
 
 ---
 
