@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Vaibhavi Zala</h1>
+<h1 align="center"> Hey there! I'm Vaibhavi Zala 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Vibhu2711">
