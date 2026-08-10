@@ -21,17 +21,14 @@
 ### Frontend
 - Vue.js
 - Bootstrap
-- React.js (Basic)
 
 ### Backend
 - Laravel
 - Core PHP
 - RESTful APIs
-- Node.js (Basic)
 
 ### Database
 - MySQL
-- MongoDB (Basic)
 
 ### Tools
 - Git
@@ -85,7 +82,6 @@ A modular CRM and business management platform developed using **Core PHP and My
 - CRUD operations and database integration
 
 🌐 **CRM:** https://crm.linkarise.com/app  
-🌐 **Admin Panel:** https://panel.linkarise.in/app
 
 ---
 
@@ -97,7 +93,7 @@ A web application for managing donors, NGOs, donation requests, feedback, and ro
 
 ---
 
-### 🔹 E-commerce Application
+### 🔹 Hexashop — E-commerce Application
 
 **Laravel | PHP | MySQL**
 
