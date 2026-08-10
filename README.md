@@ -1,76 +1,127 @@
-<h1 align="center"> Hey there! I'm Vaibhavi Zala 👋</h1>
+# 👋 Hi, I'm Vaibhavi Zala
 
-<p align="center">
-  <a href="https://github.com/Vibhu2711">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Web+Developer+(Beginner);Learning+Full-Stack+Development" alt="Typing SVG" />
-  </a>
-</p>
+### Backend Developer | PHP | Laravel | Vue.js
 
-<p align="center">
-📍 Vadodara, Gujarat, India
-</p>
+🎓 Computer Engineering graduate with hands-on experience in web application development.
 
----
-## 🧑‍💻 About Me
+💻 Currently working as a **Backend Developer Intern at Arth Technology**, developing CRM and business management applications using **Core PHP, Laravel, MySQL, Vue.js, and RESTful APIs**.
 
-- 🎓 Computer Engineering Student  
-- 🌱 Currently learning **Full-Stack Web Development**  
-- 💻 Interested in **MERN Stack**  
-- 🚀 Preparing for internships/job & real-world projects  
+🚀 Interested in building scalable web applications, APIs, and real-world business solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML
-- CSS
+### Languages
+- PHP
 - JavaScript
-- React.js
+- HTML5
+- CSS3
+
+### Frontend
+- Vue.js
+- Bootstrap
+- React.js (Basic)
 
 ### Backend
-- PHP
 - Laravel
-- Node.js
-- Express.js
+- Core PHP
+- RESTful APIs
+- Node.js (Basic)
 
 ### Database
-- MongoDB
 - MySQL
+- MongoDB (Basic)
 
 ### Tools
+- Git
 - GitHub
-- VS Code, Postman
-
-### Deployment
-- Vercel
-- Netlify
+- Postman
+- VS Code
 
 ---
 
-## 📌 Projects
+## 💼 Professional Experience
+
+### Backend Developer Intern — Arth Technology
+**May 2026 – Present**
+
+- Developing web applications using **Core PHP, Laravel, Vue.js, and MySQL**.
+- Developing and maintaining **Laravel REST APIs** for Vue.js applications.
+- Working on CRM and business management applications with modules including **Sales, Service, Booking, Contracts, and Jobs**.
+- Implementing authentication, CRUD operations, database integration, and backend business logic.
+
+---
+
+## 🚀 Projects
+
+### 🔹 TeleCRM
+
+**Vue.js | Laravel | PHP | MySQL | REST APIs**
+
+A CRM application built with a **Vue.js frontend and Laravel REST API backend**.
+
+- Lead and customer management
+- Follow-up management
+- User management
+- Authentication and role-based access
+- CRUD operations and API integration
+
+🌐 **Live:** https://telecrm.linkarise.com
+
+---
+
+### 🔹 CRM Management Platform
+
+**Core PHP | MySQL | JavaScript**
+
+A modular CRM and business management platform developed using **Core PHP and MySQL**.
+
+- Sales management
+- Service management
+- Venue booking
+- Contract and job management
+- User management
+- CRUD operations and database integration
+
+🌐 **CRM:** https://crm.linkarise.com/app  
+🌐 **Admin Panel:** https://panel.linkarise.in/app
+
+---
 
 ### 🔹 Helping Hands
-- A responsive PHP–MySQL web application for managing donors, NGOs, donation requests, feedback, and role-based dashboards with a responsive Bootstrap UI.
 
-### 🔹 E-commerce Website Using Laravel
-- This e-commerce website is a modern online shopping platform developed using the Laravel PHP framework.  
+**PHP | MySQL | Bootstrap**
 
-### 🔹 E-commerce Website Using PHP
-- Created an e-commerce website using PHP with a user-friendly shopping experience.  
+A web application for managing donors, NGOs, donation requests, feedback, and role-based dashboards.
 
-### 🔹 Visiting Card OCR System
-- Built a MERN stack application that uses OCR to extract name, company, phone number, and email from visiting card images, with structured data storage. 
+---
+
+### 🔹 E-commerce Application
+
+**Laravel | PHP | MySQL**
+
+Developed an e-commerce application using Laravel with product management, authentication, shopping cart, and admin functionality.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Computer Engineering**  
+Sigma University, Vadodara  
+2023 – 2026
+
+**Diploma in Computer Engineering**  
+Government Polytechnic, Porbandar  
+2020 – 2023
 
 ---
 
 ## 📫 Connect With Me
-<p>
-  📧 <b>Email:</b> vaibhavizala27@gmail.com <br/>
-  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/vaibhavi-zala-a4a237345">Vaibhavi Zala</a> <br/>
-  <!-- 🌐 <b>Portfolio:</b> <a href="https://sahil-porfolio.netlify.app/">My Portfolio</a> -->
-</p>
+
+- 💼 LinkedIn: www.linkedin.com/in/vaibhavi-zala
+- 📧 Email: vaibhavizala27@gmail.com
 
 ---
 
- **Thank you for visiting my GitHub profile!** ⭐
+⭐ Thanks for visiting my profile!
