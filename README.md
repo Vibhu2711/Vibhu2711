@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Vaibhavi Zala
 
-### Backend Developer | PHP | Laravel | Vue.js
+### Full-stack Developer | PHP | Laravel | Vue.js
 
 🎓 Computer Engineering graduate with hands-on experience in web application development.
 
-💻 Currently working as a **Backend Developer Intern at Arth Technology**, developing CRM and business management applications using **Core PHP, Laravel, MySQL, Vue.js, and RESTful APIs**.
+💻 Currently working as a **Full-stack Developer Intern at Arth Technology**, developing CRM and business management applications using **Core PHP, Laravel, MySQL, Vue.js, and RESTful APIs**.
 
 🚀 Interested in building scalable web applications, APIs, and real-world business solutions.
 
@@ -40,7 +40,7 @@
 
 ## 💼 Professional Experience
 
-### Backend Developer Intern — Arth Technology
+### Full-stack Developer Intern — Arth Technology
 **May 2026 – Present**
 
 - Developing web applications using **Core PHP, Laravel, Vue.js, and MySQL**.
